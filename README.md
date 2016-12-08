@@ -1,4 +1,4 @@
-# Dhruv-s-Instant-Messenger
+# Dhruv-Instant-Messenger
 This is a simple Java Instant Messenger.
 
 Server program runs on Server pc.
