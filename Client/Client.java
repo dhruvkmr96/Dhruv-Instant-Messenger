@@ -32,6 +32,7 @@ public class Client extends JFrame{
 	
 	public Client(String host){
 		super("Client mofo!");
+		serverIP=host;
 		jtf=new JTextField();
 		jtf.setEditable(false);
 		jtf.addActionListener(
